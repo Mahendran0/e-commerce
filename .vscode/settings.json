@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./project/myapp/templates",
+        "./project/shop"
+    ]
+}
